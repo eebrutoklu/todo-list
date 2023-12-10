@@ -46,4 +46,4 @@ This project is created as a demonstration and can be enhanced with additional f
 Here are some GIFs demonstrating the functionality of the web app:
 
 - Add Task:
-  ![Add Task GIF](./gif.gif)
+  ![Add Task GIF](./mobile (1).gif)
